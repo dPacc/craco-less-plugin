@@ -1,0 +1,76 @@
+{
+  "_args": [
+    [
+      "craco-less-plugin@0.0.3",
+      "/media/dpacman/New_Volume/Projects/sudhamrit/sudhamrit-client"
+    ]
+  ],
+  "_from": "craco-less-plugin@0.0.3",
+  "_id": "craco-less-plugin@0.0.3",
+  "_inBundle": false,
+  "_integrity": "sha512-1IIW55WiYeqnDUUqc5tXw2voJjj7nbMxoISlJuiwT0JVs2qPZX10phqn3nLhcv1XkkKelXUjJdbefpjrRNuqCw==",
+  "_location": "/craco-less-plugin",
+  "_phantomChildren": {
+    "big.js": "5.2.2",
+    "clone": "2.1.2",
+    "copy-anything": "2.0.3",
+    "emojis-list": "3.0.0",
+    "errno": "0.1.8",
+    "graceful-fs": "4.2.6",
+    "image-size": "0.5.5",
+    "make-dir": "2.1.0",
+    "mime": "1.6.0",
+    "minimist": "1.2.5",
+    "native-request": "1.1.0",
+    "pify": "4.0.1",
+    "source-map": "0.6.1",
+    "tslib": "1.14.1"
+  },
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "craco-less-plugin@0.0.3",
+    "name": "craco-less-plugin",
+    "escapedName": "craco-less-plugin",
+    "rawSpec": "0.0.3",
+    "saveSpec": null,
+    "fetchSpec": "0.0.3"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/craco-less-plugin/-/craco-less-plugin-0.0.3.tgz",
+  "_spec": "0.0.3",
+  "_where": "/media/dpacman/New_Volume/Projects/sudhamrit/sudhamrit-client",
+  "author": {
+    "name": "jaskang"
+  },
+  "bugs": {
+    "url": "https://github.com/jasKang/craco-less-plugin/issues",
+    "email": "jaskang@qq.com"
+  },
+  "dependencies": {
+    "less": "^3.11.1",
+    "less-loader": "^5.0.0"
+  },
+  "description": "craco less plugin",
+  "homepage": "https://github.com/%3AJasKang/craco-less-plugin#readme",
+  "keywords": [
+    "craco",
+    "cra",
+    "less",
+    "create-react-app"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "craco-less-plugin",
+  "peerDependencies": {
+    "@craco/craco": "^5.5.0",
+    "react-scripts": "^3.3.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/%3AJasKang/craco-less-plugin.git"
+  },
+  "version": "0.0.3"
+}
